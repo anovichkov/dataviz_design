@@ -5,9 +5,9 @@
 3. Скачиваем [Anaconda](https://www.anaconda.com/distribution/). Нужна версия Pyton 3.xx
 4. Устанавливаем на тот же диск, куда скачали репозиторий. Это важно, так как Juputer Notebook плохо переключатся между дисками.
 5. Открываем Jupiter Notebook -> New -> Terminal
-6. Устанавливаем две дополнительные библиотеки введя в терминале последовательно 
-    pip install yfinance
-    pip install pandas_datareader
+6. Устанавливаем две дополнительные библиотеки введя в терминале последовательно:
+6.1. pip install yfinance
+6.2. pip install pandas_datareader
 6. Открываем с помощью Juputer Notebook файл .ipynb
 7. Нажимаем в меню наверху Kernel.
 8. Выбираем Restart and Ran All.
